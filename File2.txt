@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 welcome to git demo : done by team mate for WI5 for rebase testing on master
 
 check rebase merging
+=======
+welcome to git demo for feature login and payment to test teh rebase
+
+change to test rebase in EN1
+>>>>>>> EN1
